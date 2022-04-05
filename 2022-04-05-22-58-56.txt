@@ -1,0 +1,2 @@
+!cAjsRgDfbXqdpIHfTt:tomesh.net
+well, anywhere you put `!save` it'll save now
